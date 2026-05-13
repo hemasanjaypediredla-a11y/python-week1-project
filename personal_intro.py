@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+hobby = input("Enter your hobby: ")
+
+print("\n🎉 Welcome", name, "🎉")
+print("You are", age, "years old.")
+print("You live in", city)
+print("Your hobby is", hobby)
+print("Have a great day!")
